@@ -1,0 +1,86 @@
+{
+    "data": {
+        "item1": [{
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdcs.png",
+                "icontitle": "超市超市"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdsm.png",
+                "icontitle": "数码电器"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdfs.png",
+                "icontitle": "京东服饰"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdsx.png",
+                "icontitle": "京东生鲜"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jddj.png",
+                "icontitle": "京东到家"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdcz.png",
+                "icontitle": "充值缴费"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdpg.png",
+                "icontitle": "9.9元拼"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdlq.png",
+                "icontitle": "领券"
+            }
+        ],
+        "item2": [{
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdzq.png",
+                "icontitle": "赚钱"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdhy.png",
+                "icontitle": "PLUS会员"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdgj.png",
+                "icontitle": "京东国际"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdpm.png",
+                "icontitle": "京东拍卖"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/wph.png",
+                "icontitle": "唯品会"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jd3g.dpg",
+                "icontitle": "玩3C"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdwem.png",
+                "icontitle": "沃尔玛"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdmzg.png",
+                "icontitle": "美妆馆"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdlx.png",
+                "icontitle": "京东旅行"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdpp.png",
+                "icontitle": "拍拍二手"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdwlcx.png",
+                "icontitle": "物流查询"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/homeNavList/jdqb.png",
+                "icontitle": "全部"
+            }
+        ]
+    }
+}

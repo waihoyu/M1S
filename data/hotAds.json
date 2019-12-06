@@ -1,0 +1,17 @@
+{
+    "data": {
+        "item1": [{
+                "iconurl": "http://127.0.0.1:1688/images/hotAds/hot_ad1.dpg",
+                "icontitle": "超市超市"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/hotAds/hot_ad2.gif",
+                "icontitle": "数码电器"
+            },
+            {
+                "iconurl": "http://127.0.0.1:1688/images/hotAds/hot_ad3.dpg",
+                "icontitle": "京东服饰"
+            }
+        ]
+    }
+}
