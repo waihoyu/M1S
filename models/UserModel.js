@@ -1,26 +1,26 @@
 // 1. 连接数据库
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/pdd3');
+mongoose.connect('mongodb://localhost/pdd3', {});
 
 // 2. 创建用户集合
 var userSchema = mongoose.Schema({
     // 用户名
-    'name': {
-        type: String
+    name: {
+        type: String,
     },
     // 密码
-    'pwd': {
-        type: String
+    pwd: {
+        type: String,
     },
     //  手机
-    'phone': {
-        type: String
+    phone: {
+        type: String,
     },
     // 最后操作时间
-    'l_time': {
+    l_time: {
         type: Date,
-        default: Date.now
-    }
+        default: Date.now,
+    },
 });
 
 // 3. 输出文档(model)
